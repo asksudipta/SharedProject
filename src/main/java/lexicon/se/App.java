@@ -13,4 +13,8 @@ public class App
     public static void myName(){
         System.out.println("May name is Sudipta");
     }
+    
+    public static void test(){
+        System.out.println("Test");
+    }
 }
